@@ -1755,7 +1755,7 @@ input[type=search]::-webkit-search-results-decoration {
     font-weight: 500;
     position: relative;
     align-items: center;
-    color: var(--bs-dark);
+    color: #ffffff;
     font-family: 'SuisseIntl Medium'; }
   .main_menu_list > li.active > a {
     color: var(--bs-dark); }
@@ -1813,7 +1813,7 @@ input[type=search]::-webkit-search-results-decoration {
   .header_layout_1 .stricked-menu {
     padding: 15px 0;
     backdrop-filter: blur(15px);
-    background-color: var(--bs-white);
+    background-color: #18056a82;
     box-shadow: 0px 20px 40px 0 rgba(0, 0, 0, 0.08); }
     .header_layout_1 .stricked-menu .site_logo img:nth-child(1) {
       display: none; }
